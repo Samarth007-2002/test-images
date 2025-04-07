@@ -2,11 +2,11 @@
 
 ## Question 1
 
-### 1.1 THis is q1
+#### 1.1 THis is q1 dsifsidfoisdf fiedsoifjisdf sfjsd 
    - Explanation and steps for solving the problem.
    ![Image](./images/image_1.1.png)
 
-### 1.2
+#### 1.2 his dsdsd 
    - Explanation and steps for solving the problem.
    ![Image](./images/1.png)
 
