@@ -3,7 +3,7 @@
 ## Question 1
 
 #### 1.1
-   ![Hi](./images/1.png)
+   !(./images/1.png)
    - Explanation and steps for solving the problem.
 
 #### 1.2
